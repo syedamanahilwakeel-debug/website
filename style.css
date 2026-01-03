@@ -1,0 +1,24 @@
+
+
+:root{
+
+    --primary : #5E3BEE;
+}
+:root{
+    --secondary : #1C1E53;
+
+}
+
+.btn-purple{
+
+     border: 1px solid #5E3BEE;
+  
+     color: var(--primary);
+}
+.nav-item{
+    color: var(--primary);
+}
+.nav-link {
+
+    color: var(--secondary);
+}
