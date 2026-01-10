@@ -22,3 +22,20 @@
 
     color: var(--secondary);
 }
+.herobtn{
+
+    background-color:var(--primary) ;
+    color: azure;
+}
+.hero{
+    background-color:  #F5FCFF;
+;
+}
+.gallery{
+
+    background-color: #F5FCFF;
+    outline: 20px solid white;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 20px;
+}
